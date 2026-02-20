@@ -1,6 +1,6 @@
 # 🧠 Compiler with Flex and Bison
 
-This project is a simple compiler built using [Flex](https://github.com/westes/flex) (for lexical analysis) and [Bison](https://www.gnu.org/software/bison/) (for syntax analysis). It recognizes and validates the structure of a fictional language, serving as a foundation for learning compiler construction. 🚀
+This project is a simple compiler built using [Flex](https://github.com/westes/flex) (for lexical analysis) and [Bison](https://www.gnu.org/software/bison/) (for syntax analysis). It recognizes and validates the structure of a fictional language, serving as a foundation for learning compiler construction. 
 
 ## 📚 Features
 
